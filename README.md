@@ -1,3 +1,5 @@
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/rpsjr/camunda-demo.git)
+
 # Camunda BPM example based on Spring Boot
 
 Based on [Camunda Spring Boot starter app](https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/example-webapp?ref=7f807189b443c2f10e8cb192303a46b0fef7ac62)
